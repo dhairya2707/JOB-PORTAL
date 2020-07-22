@@ -3,7 +3,7 @@ A website for job portal
 # Features
 This website includes jobs of different categories like bsc, msc etc.
 # Registration
-![](screenshots/registration.png)
+![](screenshots/registration.PNG)
 # Requirements
 XAMPP , php 7 my sql and a browser of your choice
 # Steps
