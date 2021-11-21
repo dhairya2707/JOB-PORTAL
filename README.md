@@ -8,7 +8,7 @@ This is a registration page
 This is a login page
 
 
-![](screenshots/login.PNG = 100*)
+![](screenshots/login.PNG =100x20)
 # Requirements
 XAMPP , php 7 my sql and a browser of your choice
 # Steps
