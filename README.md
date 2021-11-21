@@ -2,7 +2,7 @@
 It is a Job Portal that can be used to display Certain types of job based on categories. The jobs in this web page can even be categorised according to Government jobs and Corporate jobs as well.
 ![alt text](screenshots/gif.gif "Job Portal")
 ## Registration and Login
-This is the snapshot of Registration Page: ![alt text](screenshots/signup.PNG "Registration Page")
+This is the snapshot of Registration Page: ![alt text](screenshots/registration.PNG "Registration Page")
 This is the snapshot of Login Page: ![alt text](screenshots/login.PNG "Login Page")
 ## Features of Web Page
 This web page include the job search based on categories, like Btech, Mtech, MSc, etc.
