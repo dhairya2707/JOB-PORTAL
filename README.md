@@ -3,7 +3,8 @@ It is a Job Portal that can be used to display Certain types of job based on cat
 ![alt text](screenshots/gif.gif "Job Portal")
 ## Registration and Login
 This is the snapshot of Registration Page: ![alt text](screenshots/registration.PNG "Registration Page")
-This is the snapshot of Login Page: ![alt text](screenshots/login.PNG "Login Page")
+This is the snapshot of Login Page:
+![alt text](screenshots/login.PNG "Login Page")
 ## Features of Web Page
 This web page include the job search based on categories, like Btech, Mtech, MSc, etc.
 You can also create resume in this website, or even upload one.
