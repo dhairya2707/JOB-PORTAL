@@ -1,19 +1,18 @@
-# JOB-PORTAL
-A website for job portal
-# Features
-This website includes jobs of different categories like bsc, msc etc.
-# Registration and Login
-This is a registration page
-![](screenshots/registration.PNG)
-This is a login page
+# Job-Portal
+It is a Job Portal that can be used to display Certain types of job based on categories. The jobs in this web page can even be categorised according to Government jobs and Corporate jobs as well.
+![alt text](Screenshots/gif.gif "Job Portal")
+## Registration and Login
+This is the snapshot of Registration Page: ![alt text](Screenshots/signup.PNG "Registration Page")
+This is the snapshot of Login Page: ![alt text](Screenshots/login.PNG "Login Page")
+## Features of Web Page
+This web page include the job search based on categories, like Btech, Mtech, MSc, etc.
+You can also create resume in this website, or even upload one.
+## Requirements
+Any Browser, XAMPP, PHP 7 Mysql
+## Steps for Execution 
+1. Download all the folders containing various files.
+2. Open `index.html`
+3. For testing database (backend), open XAMPP control panel and start PHP and mysql.
+4. Create database as registerdb and table name as sysusers of 4 columns named as `id, username, password, created_at`.
+5. For testing register, open `register.php`. After registration, the site will ask for login, and after successfully login, test front-end functions.
 
-
-![](screenshots/login.PNG =100x20)
-# Requirements
-XAMPP , php 7 my sql and a browser of your choice
-# Steps
-* Download all the folders
-* open index.html
-* For testing database open XAMPP control panel and start PHP and MY SQL
-* Create database as registerdb and table name as sysusers of 4 columns and named as id, username, password, created_at.
-* For testing register open register.php. After registration the site will ask for login and then you can test front-end functions.
